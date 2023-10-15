@@ -14,5 +14,5 @@ class Person {
 }
 
 let taro = new Person('Taro', 30);
-console.log(taro.profile());
+// console.log(taro.profile());
 // let hanako = new Person();
